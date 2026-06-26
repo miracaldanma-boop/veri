@@ -28,10 +28,10 @@ jobs:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: python main.py
         
-      - name: Raporu GitHub'a Kaydet
+     - name: Raporu GitHub'a Kaydet
         run: |
           git config --global user.name 'Otonom AI'
           git config --global user.email 'ai@bot.com'
-          git add haftalik_rapor.md
-          git commit -m "Yeni finans raporu eklendi" || echo "Değişiklik yok"
+          git add Raporlar/
+          git commit -m "Yeni tarihli finans raporu eklendi" || echo "Değişiklik yok"
           git push
