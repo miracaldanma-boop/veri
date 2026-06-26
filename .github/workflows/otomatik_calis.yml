@@ -1,0 +1,37 @@
+name: Otonom AI Ekibi
+
+on:
+  schedule:
+    - cron: '0 5 * * 1' # Her Pazartesi UTC 05:00 (Türkiye 08:00)
+  workflow_dispatch: # Ekstradan senin manuel "Çalıştır" butonuna basabilmen için
+
+permissions:
+  contents: write
+
+jobs:
+  rapor_hazirla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Kütüphaneleri Yükle
+        run: pip install -r requirements.txt
+        
+      - name: Ekibi Çalıştır ve Raporu Yaz
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: python main.py
+        
+      - name: Raporu GitHub'a Kaydet
+        run: |
+          git config --global user.name 'Otonom AI'
+          git config --global user.email 'ai@bot.com'
+          git add haftalik_rapor.md
+          git commit -m "Yeni finans raporu eklendi" || echo "Değişiklik yok"
+          git push
