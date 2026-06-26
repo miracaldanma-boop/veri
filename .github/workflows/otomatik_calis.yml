@@ -2,8 +2,8 @@ name: Otonom AI Ekibi
 
 on:
   schedule:
-    - cron: '0 5 * * 1' # Her Pazartesi UTC 05:00 (Türkiye 08:00)
-  workflow_dispatch: # Ekstradan senin manuel "Çalıştır" butonuna basabilmen için
+    - cron: '0 5 * * 5' # Her Cuma UTC 05:00
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,10 +12,10 @@ jobs:
   rapor_hazirla:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Sürüm güncellendi
       
       - name: Python Kurulumu
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Sürüm güncellendi
         with:
           python-version: '3.10'
           
