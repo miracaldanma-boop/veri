@@ -4,7 +4,7 @@ from crewai_tools import SerperDevTool
 
 # CrewAI'ın yeni sistemine uygun Gemini kurulumu
 gemini_llm = LLM(
-    model="gemini/gemini-1.5-flash",
+    model="gemini/gemini-1.5-pro",
     api_key=os.environ["GEMINI_API_KEY"]
 )
 
