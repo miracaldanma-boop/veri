@@ -1,10 +1,13 @@
 import os
-from crewai import Agent, Task, Crew
+from crewai import Agent, Task, Crew, LLM
 from crewai_tools import SerperDevTool
-from langchain_google_genai import ChatGoogleGenerativeAI
 
-# Yapay zekanın beyni ve arama motoru
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=os.environ["GEMINI_API_KEY"])
+# CrewAI'ın yeni sistemine uygun Gemini kurulumu
+gemini_llm = LLM(
+    model="gemini/gemini-1.5-flash",
+    api_key=os.environ["GEMINI_API_KEY"]
+)
+
 arama_araci = SerperDevTool(serper_api_key=os.environ["SERPER_API_KEY"])
 
 # 1. Çalışan: Araştırmacı
@@ -13,7 +16,7 @@ arastirmaci = Agent(
     goal='Borsa ve yatırım fonlarındaki güncel haberleri, ekonomik verileri ve fırsatları bulmak.',
     backstory='Sen Wall Street düzeyinde titiz bir analistsin.',
     tools=[arama_araci],
-    llm=llm
+    llm=gemini_llm
 )
 
 # 2. Çalışan: Raportör
@@ -21,7 +24,7 @@ raportor = Agent(
     role='Raportör',
     goal='Araştırmacının bulduğu karmaşık verileri sade, anlaşılır bir yatırım raporuna çevirmek.',
     backstory='Karmaşık finansal verileri patronun için en net hale getiren bir uzmansın.',
-    llm=llm
+    llm=gemini_llm
 )
 
 # Yapılacak İşler
