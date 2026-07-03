@@ -1,162 +1,163 @@
-# Baş Stratejist Haftalık Piyasa Raporu: 29 Haziran 2026 - 03 Temmuz 2026
+## **STRATEJİK YATIRIM RAPORU: 29.06.2026 - 03.07.2026 Haftası**
 
-**Hazırlayan:** Baş Stratejist Ekibi
-**Tarih:** 27 Haziran 2026
-**Dönem:** 29 Haziran 2026 Pazartesi - 03 Temmuz 2026 Cuma
+Değerli yatırımcılarımız,
 
----
-
-## **Giriş**
-
-Sayın Yatırımcılar,
-
-Bu rapor, 29 Haziran 2026 - 03 Temmuz 2026 haftasına yönelik küresel ve yerel piyasalardaki beklentileri, potansiyel gelişmeleri ve stratejik yaklaşımları analiz etmektedir. Gelecekteki bir döneme ait kesin veri ve haberlere erişimimiz olmamakla birlikte, kıdemli makroekonomi ve portföy araştırmacımızın öngörüleri doğrultusunda, bu dönemde piyasaları etkilemesi muhtemel ana temaları ve risk faktörlerini detaylı bir şekilde değerlendiriyoruz. Amacımız, belirsizlik ortamında bile veri odaklı ve proaktif bir yatırım stratejisi belirlemenize yardımcı olmaktır.
+29 Haziran - 3 Temmuz 2026 haftasına ait piyasa verilerini, makroekonomik gelişmeleri ve geleceğe yönelik öngörüleri içeren stratejik yatırım raporumuzu sunarız. Bu rapor, tarafsız ve veri odaklı bir yaklaşımla, portföy kararlarınıza ışık tutmak amacıyla hazırlanmıştır.
 
 ---
-
-## **Piyasa Değerlendirmeleri ve Stratejiler**
 
 ### **1. Küresel ve Yerel Hisse Senedi Piyasaları**
 
-*   **Geçen Haftanın Özeti (22.06.2026 - 26.06.2026)**
-    *   Önceki hafta, 2026 ortasına yaklaşırken küresel ekonomik büyüme ivmesine, enflasyon beklentilerine ve merkez bankalarının para politikası duruşlarına ilişkin belirsizliklerin piyasalarda yön arayışını sürdürdüğü bir dönem oldu. ABD'deki teknoloji hisselerinde, yapay zeka temalı gelişmelerin etkisiyle seçici yükselişler gözlemlenirken, genel piyasa küresel resesyon endişeleri ve FED'in potansiyel sıkılaşma adımlarına dair sinyallere karşı temkinli bir duruş sergiledi. Türkiye özelinde, BIST, yüksek enflasyon ve faiz ortamının şirket karları üzerindeki potansiyel baskısı nedeniyle volatil bir seyir izledi. Katılım fonları ise portföylerindeki İslami finans ilkelerine uygun varlıkların getirisi doğrultusunda sınırlı ve dalgalı hareketler kaydetti.
+**Geçen Haftanın Özeti**
+*   **BIST 100:** Haftaya %-0.64 düşüşle 14.183,21 puandan başlayan Borsa İstanbul, hafta kapanışına doğru yükselişle başladı ve 14.600 - 14.700 seviyelerini direnç, 14.300 - 14.200 seviyelerini destek olarak belirledi. Hafta genelinde ABD Tarım dışı istihdam verilerinin beklentilerin altında kalması piyasa üzerinde dolaylı etki yarattı.
+*   **S&P 500:** ABD seansı açılışında vadeli endeksler olumlu bir kapanışa işaret ederken, haftanın başında büyük sermayeli teknoloji hisseleri (Nvidia, Alphabet >%8, Apple) düşüşlere öncülük etti. Ancak endeks, teknoloji satışlarından sonra toparlanma gösterdi ve çeyreği dengeli bir kapanışla tamamladı.
+*   **Nasdaq:** Teknoloji ağırlıklı Nasdaq, haftaya %0.2 düşüşle 25.297,62 puandan kapanış yaptı. ABD-İran barış umutları ve genel olumlu görünümle Nasdaq vadeli işlemleri yükseliş eğilimi sergiledi. Avrupa borsalarında da teknoloji öncülüğünde güçlü bir yükseliş izlendi.
+*   **Midas Üzerinden Takip Edilen Yabancı Teknoloji Hisseleri:** Avrupa borsalarında teknoloji hisseleri güçlenirken, ABD teknoloji hisselerinde (Nvidia, Alphabet, Meta, Apple, Amazon gibi) Fed kaynaklı beklentiler ve küresel risk iştahındaki zayıflama ile düşüşler ve kırılgan bir görünüm hakimdi.
+*   **Katılım Fonları:** Türkiye Sigorta'nın Temmuz ayı model portföyünde risk profillerine göre ortalama %50 sabit getirili TL fonlar, %25 yurt içi hisse senedi fonları ve %25 yurt dışı fonları yer alabileceği belirtildi. VGD kodlu Kıymetli Madenler fonu da öneriler arasında yer aldı. Kuveyt Türk PYS ise jeopolitik risklere vurgu yaptı.
 
-*   **Gelecek Hafta İçin Öngörüler (29.06.2026 - 03.07.2026)**
-    *   **Küresel:** Küresel ekonomik büyüme beklentileri, ABD'den gelecek ISM ve PMI verileri ile istihdam raporları, piyasaların ana yön belirleyicileri olabilir. Teknoloji sektöründeki inovasyonlar, özellikle yapay zeka teması altında, yine ilgi odağı olmayı sürdürebilir. Ancak, olası küresel resesyon endişeleri veya merkez bankalarından gelebilecek şahin söylemler, risk iştahını azaltıcı etki yaratabilir.
-    *   **Yerel (BIST):** Türkiye'deki enflasyon görünümü ve TCMB'nin faiz politikasına dair sinyaller, BIST'in genel performansını şekillendirmeye devam edecektir. Haftaya özel önemli bir şirket bilançosu veya sektörel rapor beklenmediğinden, makroekonomik beklentiler ve global piyasa trendleri BIST üzerinde daha belirleyici olacaktır. Yüksek enflasyonun devamı halinde şirket karları üzerindeki baskı sürebilirken, ekonomik istikrarın sinyalleri piyasayı destekleyebilir.
-    *   **Katılım Fonları:** İslami finans ilkelerine uygun hisse senetleri, kira sertifikaları ve altın gibi varlıkların performansına bağlı olarak hareket edeceklerdir. Faiz politikaları ve Katılım Endeksi'ndeki şirketlerin sektörel gelişimleri fonların getirisi üzerinde etkili olacaktır.
+**Gelecek Hafta İçin Öngörüler**
+*   **BIST 100:** Global makroekonomik verilerin etkileşimleri ve içsel dinamikler (özellikle 3 Temmuz Cuma günü açıklanacak enflasyon verisi) BIST'in seyrini belirleyecek. Belirlenen direnç seviyeleri test edilebilir.
+*   **S&P 500:** JPMorgan, FactSet ve Goldman Sachs gibi önde gelen kurumların 2026 S&P 500 hedeflerini yükseltmeleri (7.200'den 7.800'e, 7.600'e), yapay zeka momentumu ve güçlü kurumsal kazanç beklentileri ile endeksin rallisini sürdüreceği yönündeki beklentiyi güçlendiriyor. Önümüzdeki 12 ay içinde %28.9'luk fiyat artışı tahmini dikkat çekici.
+*   **Nasdaq:** Yılın ilk yarısının beklentiden daha olumlu kapanması, teknoloji sektöründeki yükseliş potansiyelini koruduğunu gösteriyor. ABD ve Avrupa vadeli işlemlerindeki yükseliş, olumlu bir başlangıcın habercisi olabilir.
+*   **Midas Üzerinden Takip Edilen Yabancı Teknoloji Hisseleri:** ABD hisse piyasaları Temmuz ayına güçlü bir kar zemini ile girse de, beklentilerin yüksek olması ve teknoloji hisselerindeki kırılgan görünümün sürmesi, oynaklığı beraberinde getirebilir.
+*   **Katılım Fonları:** Jeopolitik risklerin fon dağılımı üzerindeki etkisi devam edebilir. Kıymetli madenler fonlarına olan ilginin artması beklenirken, sabit getirili TL fonlar dengeli portföyler için önemli bir unsur olmaya devam edecek.
 
-*   **Strateji (Ne Yapılmalı?)**
-    *   **Çeşitlendirme:** Küresel ve yerel hisse senedi piyasalarındaki belirsizlik göz önüne alındığında, sektörel ve coğrafi çeşitlendirmeye ağırlık verilmelidir.
-    *   **Seçici Yaklaşım:** Yüksek kaliteli, güçlü bilançolara sahip ve sektöründe rekabet avantajı bulunan şirketlere odaklanılmalıdır. Büyüme potansiyeli yüksek, yapay zeka gibi yeni nesil teknolojilere yatırım yapan firmalar mercek altına alınabilir.
-    *   **Makro Gelişmeleri Takip:** Özellikle ABD'den gelecek ekonomik veriler ve merkez bankası söylemleri yakından izlenmelidir. Türkiye'de ise enflasyon ve para politikası adımlarına dair sinyaller büyük önem taşımaktadır.
-    *   **Katılım Fonları İçin:** Faiz hassasiyeti yüksek yatırımcılar için katılım fonları, İslami finans prensiplerine uygun şirketlerin ve varlıkların performansına göre değerlendirilmelidir. Portföylerindeki sektörel dağılım ve risk profili incelenmelidir.
+**Strateji (Ne Yapılmalı?)**
+*   **BIST 100:** Destek ve direnç seviyeleri yakından takip edilerek kısa vadeli dalgalanmalardan yararlanılabilir. Uzun vadeli yatırımcılar için, içsel makroekonomik görünümün netleşmesi beklenebilir.
+*   **Küresel Hisse Senedi Piyasaları (S&P 500, Nasdaq, Yabancı Teknoloji):** Orta ve uzun vadeli yatırımcılar için, yapay zeka momentumu ve güçlü kurumsal kazanç beklentisi olan teknoloji hisselerindeki düzeltmeler alım fırsatı olarak değerlendirilebilir. Portföylerde çeşitlendirmeye gidilmeli ve risk iştahına uygun sektörlere yönelmelidir.
+*   **Katılım Fonları:** Risk profiline uygun dengeli bir fon dağılımı (sabit getirili, hisse senedi ve kıymetli madenler fonları) sürdürülmelidir. Jeopolitik risklere karşı savunma amaçlı fonlar tercih edilebilir.
 
-*   **Riskler**
-    *   Küresel ekonomik yavaşlama veya resesyon endişelerinin artması.
-    *   Merkez bankalarının beklenenden daha şahin para politikası duruşları.
-    *   Jeopolitik gerilimlerin tırmanması.
-    *   Türkiye'de enflasyonun beklenenden daha yüksek seyretmesi ve para politikasındaki belirsizlikler.
-    *   Sektörler arası ayrışmanın artması ve teknoloji hisselerindeki olası düzeltmeler.
+**Riskler**
+*   **BIST 100:** ABD istihdam verilerinin küresel piyasalar üzerindeki baskısı ve yurt içi enflasyon verilerinin beklentilerin üzerinde gelmesi BIST'te volatiliteyi artırabilir.
+*   **Küresel Hisse Senedi Piyasaları:** Fed'in olası faiz artışı kararları ve teknoloji hisselerindeki mevcut kırılganlık, küresel risk iştahını olumsuz etkileyebilir. Beklentilerin çok yüksek olması, herhangi bir hayal kırıklığında sert satışlara yol açabilir.
+*   **Jeopolitik Riskler:** Küresel ve bölgesel jeopolitik gerilimler, yatırımcıların riskli varlıklardan kaçmasına neden olarak piyasalar üzerinde genel bir baskı yaratabilir.
 
 ### **2. Döviz Piyasaları**
 
-*   **Geçen Haftanın Özeti (22.06.2026 - 26.06.2026)**
-    *   Önceki hafta döviz piyasalarında, küresel dolar endeksi (DXY) ve majör merkez bankalarının (FED, ECB) para politikalarına ilişkin beklentiler etkili oldu. FED'in potansiyel faiz artırımı patikası ve küresel risk iştahındaki değişimler DXY üzerinde belirleyiciydi. Türkiye'de ise Dolar/TL ve Euro/TL pariteleri, ülkenin cari denge, enflasyon ve faiz beklentileri ekseninde dalgalanmalar yaşadı. EUR/USD paritesinde ise FED ve ECB arasındaki politika farklılaşmasına dair sinyaller etkili oldu.
+**Geçen Haftanın Özeti**
+*   **Dolar/TL:** Haftaya 46.6418 TL seviyesinden başlayan Dolar/TL, TCMB Piyasa Katılımcıları Anketi'ne göre yıl sonu beklentisini 51.47 TL (önceki: 51.57 TL) olarak revize etti. 12 ay sonrası beklenti ise 55.72 TL'ye (önceki: 54.69 TL) yükseldi.
+*   **Euro/TL:** Haftaya 53.1818 TL seviyesinden başlayan Euro/TL, Wise.com verilerine göre 53.7686 TL seviyesinde hareket etti.
+*   **EUR/USD:** Parite haftaya 1.1460 seviyesinden başladı ve 1.1371 (1 Temmuz) ile 1.14545 (3 Temmuz) arasında dalgalandı. Haftalık bazda dolar kaynaklı düşüş eğilimi gözlemlendi.
 
-*   **Gelecek Hafta İçin Öngörüler (29.06.2026 - 03.07.2026)**
-    *   **Dolar/TL:** Türkiye ekonomisinin genel gidişatı, yüksek enflasyon, cari denge görünümü ve TCMB'nin faiz politikasına ilişkin beklentiler kurun ana belirleyicileri olacaktır. Global DXY ve Türkiye'nin risk primi de kur üzerinde etkili olmayı sürdürecektir. TCMB'den bu haftaya özel bir faiz kararı beklenmediğinden, kur üzerindeki ana baskı unsurları enflasyon ve uluslararası piyasalardaki dolar talebi olacaktır.
-    *   **Euro/TL:** Euro Bölgesi'nden gelecek ekonomik veriler ve ECB'nin para politikası duruşu Euro'nun küresel değerini etkileyecektir. Türkiye ile Avrupa arasındaki ticaret ilişkileri ve jeopolitik gelişmeler de parite üzerinde etkili olabilir.
-    *   **EUR/USD Paritesi:** FED ve ECB'nin para politikaları arasındaki farklılaşma ve enflasyon/büyüme verileri paritenin yönünü belirleyecektir. Bu haftaya özel önemli bir veri açıklanması beklenmiyorsa, önceki haftalardaki trendler ve makroekonomik beklentiler etkili olacaktır.
+**Gelecek Hafta İçin Öngörüler**
+*   **Dolar/TL:** Piyasa beklentileri, Dolar/TL'de yukarı yönlü seyrin devam edeceği yönünde. Ancak yükselişin hızı ve oynaklığı piyasanın ana tartışma konusu. Bank of America'nın 2026 yıl sonu 50.7 TL tahmini, bu kademeli yükselişi destekliyor.
+*   **Euro/TL:** Garanti BBVA'nın 2026 yıl sonu için 62.2 TL, ortalama 55.5 TL tahminleri ve diğer uzmanların (Murat Özsoy 63.5-65 TL, Commerzbank Haziran 2026 için 60.00 TL) yüksek beklentileri, Euro/TL'deki yükseliş trendinin süreceğini gösteriyor.
+*   **EUR/USD:** İş Yatırım teknik analizine göre 1.1519 ve 1.1589 seviyeleri önemli dirençler olarak öne çıkıyor. Doların küresel çapta güçlenme eğilimi nedeniyle paritede 1.1280-1.1480 bandında düşüş yönlü bir eğilim beklenebilir.
 
-*   **Strateji (Ne Yapılmalı?)**
-    *   **Dolar/TL İçin:** Türkiye'deki enflasyonun seyri ve TCMB'nin politikalarına dair netleşme beklenmelidir. Kurda oluşabilecek dalgalanmalara karşı hedge pozisyonları veya döviz korumalı enstrümanlar değerlendirilebilir.
-    *   **Majör Pariteler İçin:** FED ve ECB'nin faiz patikalarına dair açıklamalar ve ekonomik göstergeler yakından takip edilmelidir. Kısa vadeli spekülatif pozisyonlardan kaçınılmalı, uzun vadeli trendler ve temel makroekonomik göstergeler esas alınmalıdır.
-    *   **Çeşitlendirme:** Portföylerde sadece TL bazlı varlıklar yerine, döviz bazlı varlıklara da belirli oranlarda yer verilerek kur riskine karşı koruma sağlanabilir.
+**Strateji (Ne Yapılmalı?)**
+*   **Dolar/TL ve Euro/TL:** Türk Lirası'nda değer kaybı beklentisi devam ettiğinden, TL bazlı varlıklarını korumak isteyen yatırımcılar döviz pozisyonlarını sürdürmeyi veya artırmayı değerlendirebilir. Özellikle 12 ay ve yıl sonu kur beklentileri, uzun vadeli alımlar için cazip olabilir.
+*   **EUR/USD:** Doların küresel çapta güçlenme potansiyeli göz önüne alındığında, paritedeki yukarı yönlü hareketler kısa vadeli satış fırsatları olarak değerlendirilebilir. Teknik direnç seviyeleri yakından takip edilmelidir.
 
-*   **Riskler**
-    *   Türkiye'deki enflasyon beklentilerinin bozulması ve kurda istikrarsızlık.
-    *   Küresel risk iştahının azalması ve Dolar'a olan talebin artması.
-    *   FED'in beklenenden daha şahin, ECB'nin ise beklenenden daha güvercin bir duruş sergilemesi (veya tam tersi).
-    *   Jeopolitik gelişmelerin küresel para akışlarını etkilemesi.
+**Riskler**
+*   **Dolar/TL ve Euro/TL:** TCMB'nin beklenmedik para politikası değişiklikleri veya küresel piyasalardaki ani dolar/euro dengesizlikleri, kur üzerinde volatilite yaratabilir. Jeopolitik gerilimlerin artması, TL üzerindeki baskıyı artırabilir.
+*   **EUR/USD:** ABD ve Euro Bölgesi'nden gelecek kritik enflasyon ve faiz verileri, paritede ani ve keskin hareketlere neden olabilir. Özellikle Fed'in faiz artışı kararları, doları daha da güçlendirebilir.
 
 ### **3. Emtialar**
 
-*   **Geçen Haftanın Özeti (22.06.2026 - 26.06.2026)**
-    *   Önceki hafta emtia piyasalarında, küresel enflasyon beklentileri, reel faiz oranları ve doların küresel değeri altın fiyatları üzerinde belirleyici oldu. Küresel risk algısındaki değişimler altını desteklerken, güçlü dolar baskı yarattı. Gümüş, hem değerli metal hem de endüstriyel metal talebi arasında denge ararken, Brent petrol ise küresel büyüme endişeleri ve arz-talep dengesine dair sinyallerle dalgalı bir seyir izledi.
+**Geçen Haftanın Özeti**
+*   **Ons Altın:** Haftaya 4.070 dolardan başlayan ons altın, ay başından bu yana %-9.42, yıl başından bu yana ise düşüş kaydetti. ABD'de beklentilerin altında kalan özel sektör istihdam verileri ve petrol fiyatlarındaki gerilemeyle hafta sonunda %1.4 artışla 4.179,94 dolara yükselerek 23 Haziran'dan bu yana en yüksek seviyesini gördü.
+*   **Gram Altın:** Haftaya 6.090 TL seviyelerinden başlayan gram altın, ons altındaki toparlanma ile hafta sonunda 6.284 TL'ye yükseldi.
+*   **Gümüş:** Haftayı 59.22 dolardan (%-8.7 düşüşle) kapatan gümüş, hafta sonunda toparlanma eğilimi göstererek 2 Temmuz'da 60.97 dolara yükseldi.
+*   **Brent Petrol:** Bir önceki haftayı yaklaşık %10 düşüşle tamamlayan Brent petrol, yeni haftaya jeopolitik risklerin etkisiyle yükselişle başladı. Hafta sonunda 70 doların altını test etse de günü 71 dolar seviyesinde kapattı. Geçtiğimiz ay boyunca fiyatı %26.81 düştü.
 
-*   **Gelecek Hafta İçin Öngörüler (29.06.2026 - 03.07.2026)**
-    *   **Ons/Gram Altın:** Küresel enflasyon beklentileri, reel faiz oranları, jeopolitik riskler ve doların küresel değeri altının ons fiyatını etkilemeye devam edecektir. Gram altın ise ons altın fiyatı ve Dolar/TL kurunun çarpımıyla belirlendiği için, bu iki ana faktörün seyrine bağlı olacaktır. Bu hafta özelinde, küresel risk algısındaki değişimler veya merkez bankalarından gelebilecek güvercin/şahin tonlamalar altını etkileyebilir. Altın, belirsizlik dönemlerinde güvenli liman olma özelliğini koruyacaktır.
-    *   **Gümüş:** Gümüş, sanayi talebi ve değerli metal statüsünün birleşimi nedeniyle, küresel büyüme beklentileri ve enflasyon görünümüyle yakından ilişkilidir. Endüstriyel talebin canlanması gümüşü desteklerken, küresel yavaşlama endişeleri baskı yaratabilir.
-    *   **Brent Petrol:** Küresel ekonomik büyüme beklentileri, OPEC+ ülkelerinin olası arz kararları ve jeopolitik gelişmeler Brent petrol fiyatlarını etkileyecektir. Bu hafta özelinde büyük bir OPEC toplantısı duyurulmadıkça, mevcut arz-talep dengesi ve küresel ekonomik büyüme beklentileri öne çıkacaktır. Küresel envanter seviyeleri de takip edilmelidir.
+**Gelecek Hafta İçin Öngörüler**
+*   **Ons Altın:** Uzmanlar Temmuz ayı için 4.400 - 4.800 dolar aralığının geçerliliğini koruduğunu belirtiyor. Olası bir anlaşma haberi (ABD-İran barışı gibi) 4.800 doların üzerini gündeme getirebilir. UBS, düşüşleri alım fırsatı olarak görüyor. Standard Chartered Bank, 2026 ortalama fiyat tahminini 4.488 dolar olarak açıkladı.
+*   **Gram Altın:** Ons altındaki potansiyel yükseliş ve Dolar/TL'deki yukarı yönlü beklenti, gram altının 7 bin TL üzerini görme ihtimalini artırabilir (İslam Memiş).
+*   **Gümüş:** Kısa vadede gümüş fiyatlarının yönünü, ABD'nin Haziran ayı istihdam raporu belirleyecek. JPMorgan Chase, 2026 yılı için ortalama 81 dolar, yılın son çeyreğinde ise 85 dolar seviyesini öngörüyor. Sanayi metallerinde "gelecek beklentisi" fiyatlamasının artabileceği belirtiliyor.
+*   **Brent Petrol:** 70 dolar seviyesi kritik destek noktası olmaya devam edecek. Jeopolitik risklerin seyrine ve küresel talep beklentilerine bağlı olarak fiyatlarda oynaklık sürebilir. Genel görünümde 80 doların altı seviyelerinin korunması aşağı yönlü baskının göstergesi.
 
-*   **Strateji (Ne Yapılmalı?)**
-    *   **Altın ve Gümüş İçin:** Enflasyona karşı koruma ve jeopolitik risklere karşı bir hedge olarak portföylerde belli bir oranda tutulabilir. Merkez bankalarının faiz politikaları ve doların seyri yakından izlenmelidir.
-    *   **Petrol İçin:** Küresel büyüme beklentileri, arz-talep dengesi ve OPEC+ kararları takip edilerek kısa vadeli dalgalanmalar değerlendirilebilir. Enerji sektörü hisseleri de dolaylı bir petrol pozisyonu sağlayabilir.
-    *   **Çeşitlendirme:** Emtia piyasalarındaki volatilite göz önüne alındığında, farklı emtialar arasında çeşitlendirme yapmak risk yönetimini sağlayacaktır.
+**Strateji (Ne Yapılmalı?)**
+*   **Altın (Ons ve Gram):** Ons altındaki geri çekilmeler, uzun vadeli portföyler için alım fırsatı olarak değerlendirilebilir. Gram altın, hem ons altındaki potansiyel yükseliş hem de Dolar/TL'deki değerlenme beklentisi ile portföylerde dengeleyici bir unsur olarak tutulabilir.
+*   **Gümüş:** Sanayi metallerine yönelik güçlü beklentiler ve uzun vadeli yükseliş potansiyeli göz önüne alındığında, gümüşte kademeli alımlar düşünebilir. Ancak ABD istihdam verileri öncesi kısa vadeli oynaklığa karşı dikkatli olunmalıdır.
+*   **Brent Petrol:** 70 dolar seviyesindeki kısa vadeli volatilite nedeniyle, petrol yatırımlarında temkinli olmak faydalı olabilir. Jeopolitik risklerin ani değişiklikleri, kısa süreli yükselişlere neden olabilse de, genel aşağı yönlü baskı göz ardı edilmemelidir.
 
-*   **Riskler**
-    *   Küresel ekonomik yavaşlamanın emtia talebini azaltması.
-    *   Merkez bankalarının sıkılaşma döngüsünün hızlanmasıyla doların güçlenmesi ve emtialar üzerinde baskı yaratması.
-    *   OPEC+ ülkelerinin beklenmedik üretim kararları.
-    *   Jeopolitik gerilimlerin enerji arzını veya talebini etkilemesi.
+**Riskler**
+*   **Altın ve Gümüş:** ABD istihdam verileri, enflasyon rakamları ve Fed'in faiz politikaları, değerli metaller üzerinde belirleyici rol oynayabilir. Küresel risk iştahının beklenenden daha hızlı toparlanması, güvenli liman varlıklarına olan talebi azaltabilir.
+*   **Brent Petrol:** Küresel ekonomik büyüme endişeleri, arz fazlası riskleri ve jeopolitik gelişmelerdeki belirsizlikler, petrol fiyatlarında ani ve keskin hareketlere neden olabilir.
 
 ### **4. Kripto Paralar**
 
-*   **Geçen Haftanın Özeti (22.06.2026 - 26.06.2026)**
-    *   Önceki hafta kripto piyasaları, küresel likidite koşulları ve düzenleyici gelişmelere ilişkin haber akışıyla dalgalı bir seyir izledi. Bitcoin ve Ethereum, kurumsal benimsenme ve teknolojik güncellemelerle ilgili haberlere tepki verirken, altcoinler ise kendi ekosistemlerindeki gelişmeler ve genel piyasa trendi doğrultusunda hareket etti. Piyasanın geleneksel varlıklara göre daha yüksek volatilite sergilemesi devam etti.
+**Geçen Haftanın Özeti**
+*   **Bitcoin (BTC):** Haftaya son bir buçuk yılın en düşük seviyelerinde, ABD-İran gerilimi ile 61 bin dolar civarında başladı. İkinci çeyreği %12'lik düşüşle tamamlayarak 2022'den bu yana arka arkaya üçüncü çeyrek düşüşünü kaydetti. NordFX'e göre 60.000 dolarlık "kritik tabanı" kırdı. Haftayı 61.655 dolarda kapattı ve hakimiyeti %58.2'ye geriledi.
+*   **Ethereum (ETH):** Haftaya 1.584 dolar seviyelerinde başlayan Ethereum'un hakimiyeti %9.3'e gerilerken, Korku ve Açgözlülük Endeksi 12'ye düştü, bu da aşırı korku seviyesine işaret ediyor.
+*   **Öne Çıkan Altcoin Trendleri:** İlk 50 altcoin arasında Solana, Hyperliquid ve Zcash gibi bazı varlıklar düşüş yönlü piyasaya rağmen katalizör rolünde öne çıktı. Halk TV'ye göre MemeCore, Pi ve DeXe gibi coinlerde hafta içinde düşüşler yaşandı.
 
-*   **Gelecek Hafta İçin Öngörüler (29.06.2026 - 03.07.2026)**
-    *   **Bitcoin, Ethereum ve Öne Çıkan Altcoin Trendleri:** Kripto piyasaları, küresel likidite koşulları, düzenleyici gelişmeler ve teknolojik yeniliklerle şekillenmeye devam edecektir. 2026 ortasında, Bitcoin'in halving döngüsünün etkileri ve Ethereum'un ağ güncellemeleri (örneğin, sharding veya diğer ölçeklenebilirlik çözümleri) piyasayı şekillendirebilir. Bu hafta özelinde, büyük kurumların kripto varlıklara yönelik benimsenme haberleri veya düzenleyici otoritelerden gelebilecek netleşmeler piyasada hareketlilik yaratabilir. Makroekonomik endişelerin artması durumunda, kripto varlıklardan çıkışlar görülebilir.
+**Gelecek Hafta İçin Öngörüler**
+*   **Bitcoin (BTC):** NordFX'in baz senaryosu 56.000-62.000 dolar aralığında bir dalgalanma öngörüyor. Jeopolitik olaylar ve küresel risk iştahı, Bitcoin'in fiyat hareketlerini etkilemeye devam edecek. Kısa vadeli toparlanma eğilimleri görülebilse de genel yapı kırılganlığını koruyor.
+*   **Ethereum (ETH):** Changelly Haziran 2026 için en yüksek 1.570.81 dolar tahmin ederken, CoinGecko Temmuz 2026'ya kadar 1.700 dolar seviyesine ulaşma olasılığını %100 olarak görüyor. Olumsuz senaryoda 1.500 dolar desteği kritik. Finst'e göre boğa senaryosunda 2026'da 1.550.10€'ya yükselebilir.
+*   **Öne Çıkan Altcoin Trendleri:** Piyasadaki genel düşüş eğilimine rağmen, güçlü katalizörlere sahip (Solana, Hyperliquid, Zcash) altcoinler fırsatlar sunabilir. Ancak genel piyasa duyarlılığı ve Bitcoin'in performansı altcoinler üzerindeki en büyük belirleyici olmaya devam edecektir.
 
-*   **Strateji (Ne Yapılmalı?)**
-    *   **Uzun Vadeli Perspektif:** Kripto para piyasalarının doğasında bulunan yüksek volatilite nedeniyle, uzun vadeli ve stratejik bir yaklaşımla, portföyün küçük bir kısmını ayırmak daha uygun olabilir.
-    *   **Araştırma:** Proje temelleri sağlam, güçlü geliştirici ekibine sahip ve gerçek dünya kullanım durumları olan projelere odaklanılmalıdır.
-    *   **Risk Yönetimi:** Spekülatif pozisyonlardan kaçınılmalı, sadece kaybetmeyi göze alınabilecek miktarlarla yatırım yapılmalıdır. Düzenleyici gelişmeleri yakından takip etmek esastır.
+**Strateji (Ne Yapılmalı?)**
+*   **Bitcoin (BTC):** Kısa vadede yüksek oynaklık beklendiği için, düşük fiyat seviyelerini uzun vadeli birikim için alım fırsatı olarak gören yatırımcılar kademeli alımlar düşünebilir. Jeopolitik gelişmeleri yakından takip etmek kritik öneme sahiptir.
+*   **Ethereum (ETH):** Belirlenen destek seviyeleri (1.500 dolar) yakından izlenerek, orta vadeli yükseliş beklentileri doğrultusunda pozisyon alınabilir. Özellikle 1.700 dolar seviyesine ulaşma olasılığı yüksek görünmektedir.
+*   **Altcoinler:** Düşüş trendine rağmen, temel analizleri güçlü ve katalizör etkisi olan altcoinler (Solana, Hyperliquid, Zcash gibi) portföy çeşitliliği açısından değerlendirilebilir. Ancak genel piyasa düşüşüne karşı risk yönetimi esas alınmalıdır.
 
-*   **Riskler**
-    *   Küresel likidite koşullarının kötüleşmesi ve riskli varlıklardan çıkış.
-    *   Düzenleyici otoritelerden gelebilecek olumsuz haberler veya kısıtlamalar.
-    *   Siber güvenlik riskleri ve platform hack'leri.
-    *   Yeni teknolojilerin ortaya çıkmasıyla mevcut kripto paraların değer kaybetmesi.
-    *   Yüksek piyasa manipülasyonu riski.
+**Riskler**
+*   **Genel Kripto Piyasası:** Jeopolitik gerilimler, küresel ekonomik belirsizlikler ve regülasyon riskleri kripto paraların volatilitesini artırabilir. Bitcoin'in "kritik tabanı" kırması, daha derin düşüşlerin habercisi olabilir.
+*   **Ethereum ve Altcoinler:** Bitcoin'in performansı, altcoinler üzerindeki en büyük belirleyici faktör olmaya devam edecektir. Aşırı Korku ve Açgözlülük Endeksi değerleri (ETH için 12 gibi) piyasanın panik modunda olduğunu ve daha fazla düşüş riskini barındırdığını gösterir.
 
 ### **5. Tahvil, Bono ve Faiz Piyasaları**
 
-*   **Geçen Haftanın Özeti (22.06.2026 - 26.06.2026)**
-    *   Önceki hafta tahvil piyasaları, merkez bankalarının enflasyonla mücadeledeki duruşları ve faiz oranlarını normalleştirme adımlarına ilişkin beklentilerle hareket etti. Küresel tahvillerde, özellikle ABD'de, FED'in potansiyel sıkılaşma sinyalleri getirileri etkilerken, küresel resesyon endişeleri de bazı dönemlerde güvenli liman alımlarını tetikledi. Türkiye'de ise tahvil ve bono piyasaları, enflasyon beklentileri, TCMB'nin politika faizi ve ülkenin risk primi ekseninde volatil bir seyir izledi.
+**Geçen Haftanın Özeti**
+*   **Türkiye Tahvil, Bono ve Faiz Piyasaları:** TCMB'nin faiz indirimi için bekleyeceği düşünülürken, Matriks Haber Anketi'ne göre ekonomistlerin %37.00 seviyesinde sabit kalması yönündeki beklentisi öne çıktı. Haziran ayı enflasyon rakamları bu hafta açıklanacak en önemli gündem maddesiydi. Geçtiğimiz Mart ayında politika faizi %37 seviyesinde sabit bırakılmıştı.
+*   **Küresel Faiz Kararları ve Beklentileri:** Fed, Haziran 2026'da federal fon oranını %3.50-%3.75 aralığında dördüncü kez üst üste sabit tuttu. Ancak piyasalar, Fed'den yıl içerisinde faiz artışı bekliyor ve dolar endeksinde yükseliş eğilimi hakim. Temmuz ayında bir faiz artışı gelebileceği beklentisi mevcuttu.
+*   **Küresel Enflasyon Beklentileri:** 2026 yılında piyasalar açısından en kritik başlığın enflasyon görünümünün para politikalarına açacağı alan olacağı kaydedildi. Euro Bölgesi Tüketici Güven Endeksi (Haziran-Nihai) verisi de bu hafta açıklandı.
+*   **Türkiye Enflasyon Beklentileri:** AA Finans Enflasyon Beklenti Anketi'ne katılan ekonomistler Haziran TÜFE'sinin %1.04 artacağını tahmin etti. TCMB Piyasa Katılımcıları Anketi'nde Haziran ayı enflasyon beklentisi %1.36 idi. TÜİK Haziran enflasyonunu %32.11, ENAG ise %51.49 olarak açıkladı. Yıl sonu TÜFE beklentisi (TCMB anketi) %29.14'e yükseldi.
 
-*   **Gelecek Hafta İçin Öngörüler (29.06.2026 - 03.07.2026)**
-    *   **Genel Beklenti:** 2026 ortasında, merkez bankalarının enflasyonla mücadeledeki başarısı ve faiz oranlarını normalleştirme adımları tahvil getirileri için ana belirleyici olacaktır. Enflasyon verileri ve merkez bankası açıklamaları piyasaların odağında kalacaktır.
-    *   **Türkiye Tahvil ve Bono Piyasaları:** Enflasyon beklentileri, TCMB'nin politika faizi ve ülkenin risk primi Türk tahvillerinin getirilerini etkilemeye devam edecektir. Bu hafta özelinde, Hazine'nin yeni bir borçlanma ihalesi veya piyasadan gelecek güçlü/zayıf talep tahvil getirilerini etkileyebilir. Enflasyonun yüksek seyretmesi reel getiriler üzerindeki baskıyı sürdürecektir.
-    *   **Küresel Tahvil Piyasaları (Özellikle ABD):** FED'in faiz politikası, enflasyon verileri ve ABD ekonomisinin büyüme görünümü 10 yıllık ABD tahvil getirilerini etkileyecektir. Küresel resesyon endişeleri tahvil alımlarını tetikleyerek getirileri düşürebilirken, güçlü ekonomik veriler getirileri yükseltebilir. Bu hafta özelinde, herhangi bir FED yetkilisinden gelecek yorumlar veya önemli bir ABD ekonomik verisi, tahvil piyasalarında dalgalanmaya neden olabilir.
+**Gelecek Hafta İçin Öngörüler**
+*   **Türkiye Tahvil, Bono ve Faiz Piyasaları:** 3 Temmuz Cuma günü açıklanan Haziran ayı enflasyon rakamları, TCMB'nin gelecekteki faiz politikasına yönelik beklentileri şekillendirecek. Yıl sonu enflasyon beklentisindeki yükselişin devam etmesi, para politikası üzerindeki baskıyı artırabilir.
+*   **Küresel Faiz Kararları ve Beklentileri:** Fed'den Temmuz ayında bir faiz artışı gelme ihtimali, küresel piyasalarda baskı oluşturmaya ve dolar endeksini güçlendirmeye devam edebilir. Küresel enflasyonun seyri ve merkez bankalarının tepkileri yakından takip edilecektir.
+*   **Küresel Enflasyon Beklentileri:** Küresel enflasyon görünümü, 2026 boyunca para politikalarını ve dolayısıyla piyasaları etkileyen temel faktör olmaya devam edecek.
+*   **Türkiye Enflasyon Beklentileri:** Açıklanan yüksek enflasyon verileri, TCMB'nin faiz politikası üzerindeki baskıyı sürdürmeye devam edecek. TÜİK ve ENAG arasındaki enflasyon farkı, piyasaların enflasyon algısı ve beklentileri açısından önemini koruyacaktır.
 
-*   **Strateji (Ne Yapılmalı?)**
-    *   **Kısa ve Orta Vadeli Tahviller:** Faiz artırım beklentileri devam ettiği sürece, uzun vadeli tahvillerde faiz riskine maruz kalmamak adına kısa ve orta vadeli tahviller tercih edilebilir.
-    *   **Enflasyona Endeksli Tahviller:** Yüksek enflasyon beklentisi olan ülkelerde, enflasyona endeksli tahviller reel getiriyi korumak için cazip olabilir.
-    *   **Kredi Riski Değerlendirmesi:** Yüksek getirili ancak yüksek riskli tahvillerden ziyade, güçlü ülke ve kurum tahvilleri ön planda tutulmalıdır.
+**Strateji (Ne Yapılmalı?)**
+*   **Türkiye Tahvil, Bono ve Faiz Piyasaları:** Yüksek enflasyon beklentileri ve TCMB'nin temkinli faiz politikası göz önüne alındığında, enflasyondan korunma amaçlı varlıklar (döviz, altın, enflasyona endeksli tahviller) portföyde bulundurulabilir. Faiz indirimi beklentisinin düşmesi, sabit getirili TL varlıkların cazibesini sınırlayabilir.
+*   **Küresel Faiz Kararları ve Beklentileri:** Fed'in olası faiz artışı öncesinde dolar bazlı varlıklar (kısa vadeli ABD tahvilleri) tercih edilebilir. Ancak faiz artışının küresel risk iştahını azaltacağı göz önünde bulundurulmalıdır.
 
-*   **Riskler**
-    *   Enflasyonun beklenenden daha yapışkan kalması ve merkez bankalarının daha agresif faiz artışlarına gitmesi.
-    *   Beklenenden daha hızlı bir ekonomik yavaşlama veya resesyonun getiri eğrisini tersine çevirmesi.
-    *   Küresel likiditenin daralması ve tahvil piyasalarından sermaye çıkışları.
-    *   Türkiye'de makroekonomik istikrarsızlığın sürmesi ve risk priminin yüksek kalması.
-
----
-
-## **Haftanın Özeti ve Ana Tema (29.06.2026 Pazartesi - 03.07.2026 Cuma)**
-
-29 Haziran - 03 Temmuz 2026 haftası, piyasalar için **"Belirsizlik Ortamında Makroekonomik Temkinli Durum"** teması altında geçmeye adaydır. Küresel piyasalar, 2026 yılının ortasına gelinirken, merkez bankalarının enflasyonla mücadelesindeki kararlılığı, küresel büyüme görünümündeki yavaşlama işaretleri ve olası bir resesyon ihtimali arasında yön bulmaya çalışacaktır. Özellikle ABD'den gelecek istihdam ve üretim verileri, FED'in gelecekteki politika adımlarına dair ipuçları sunarak hisse senedi ve tahvil piyasalarında dalgalanmalara neden olabilir. Emtia piyasalarında, küresel talep beklentileri ve arz dinamikleri petrol fiyatları üzerinde belirleyici olurken, altın güvenli liman statüsünü koruyacaktır. Türkiye özelinde, yüksek enflasyon, cari denge ve TCMB'nin para politikası duruşu, hem döviz kurları hem de hisse senedi ve tahvil piyasaları üzerindeki ana baskı unsurları olmaya devam edecektir. Kripto paralar ise düzenleyici gelişmeler ve küresel likidite koşullarından etkilenerek kendi iç dinamiklerinde hareket edecektir. Bu hafta, piyasaların önemli bir veri akışı olmamasına rağmen, önceki haftaların momentumu ve makroekonomik beklentilerin etkisiyle temkinli bir seyir izlemesi beklenmektedir.
+**Riskler**
+*   **Türkiye Tahvil, Bono ve Faiz Piyasaları:** Beklentilerin üzerinde gelecek enflasyon verileri, TCMB'nin beklenenden daha şahin bir politika izlemesine yol açabilir veya tam tersi, faiz indirimi beklentilerini artırarak TL varlıkları üzerinde baskı yaratabilir.
+*   **Küresel Faiz Kararları ve Beklentileri:** Fed'in faiz artışı kararları, küresel piyasalarda likidite daralmasına ve riskli varlıklardan çıkışlara neden olabilir. Küresel enflasyonun beklenenden daha kalıcı olması, merkez bankalarını daha agresif adımlar atmaya zorlayabilir.
+*   **Jeopolitik Riskler:** Artan jeopolitik gerilimler, güvenli liman varlıklarına (tahvil, altın) talebi artırırken, riskli varlıklardan (hisse senedi) çıkışları tetikleyebilir.
 
 ---
 
-## **Örnek Portföy Dağılımı (29.06.2026 - 03.07.2026)**
+### **Haftanın Özeti ve Ana Tema (29.06.2026 Pazartesi - 03.07.2026 Cuma)**
 
-Aşağıdaki örnek portföy dağılımları, 2026 ortası makroekonomik beklentiler ve risk iştahınıza göre genel bir çerçeve sunmaktadır. Yatırım kararlarınızı kendi finansal durumunuz ve risk toleransınız doğrultusunda almanız önemlidir.
+29 Haziran - 3 Temmuz 2026 haftası, piyasalarda **makroekonomik verilerin (özellikle ABD istihdam ve Türkiye enflasyon) merkez bankası politikaları üzerindeki belirleyici etkisi ve jeopolitik risklerin varlık fiyatlamalarındaki sürekliliği** teması etrafında şekillendi.
 
-| Varlık Sınıfı       | Düşük Risk İştahı (%) | Orta Risk İştahı (%) | Yüksek Risk İştahı (%) |
-| :------------------ | :-------------------- | :------------------- | :--------------------- |
-| **Nakil/Mevduat**   | 25                    | 15                   | 5                      |
-| **Devlet Tahvili/Bono (TL)** | 30                    | 20                   | 10                     |
-| **Küresel Tahvil (USD/EUR)** | 15                    | 10                   | 5                      |
-| **Yerel Hisse Senedi (BIST)** | 10                    | 20                   | 25                     |
-| **Küresel Hisse Senedi (ABD/AB)** | 10                    | 20                   | 30                     |
-| **Altın/Gümüş (Emtia)** | 5                     | 10                   | 10                     |
-| **Petrol/Endüstriyel Emtia** | 0                     | 3                    | 5                      |
-| **Kripto Para**     | 0                     | 2                    | 10                     |
-| **Toplam**          | **100**               | **100**              | **100**                |
+*   **Hisse Senedi Piyasaları:** Küresel piyasalarda teknoloji hisselerindeki kırılganlığa rağmen S&P 500 ve Nasdaq'ın toparlanma eğilimi göstermesi, yılın ilk yarısına dair olumlu beklentileri sürdürdü. BIST 100 de haftaya düşüşle başlayıp toparlanma sergiledi. ABD Tarım dışı istihdam verilerinin beklentinin altında kalması, küresel risk algısını etkileyen önemli bir faktör oldu.
+*   **Döviz Piyasaları:** Dolar/TL ve Euro/TL'de yukarı yönlü beklentiler korunurken, EUR/USD paritesinde doların küresel çapta güçlenme eğilimi gözlemlendi. TCMB anketleri, yıl sonu kur beklentilerinde revizyonlara işaret etti.
+*   **Emtialar:** Ons altın, ABD istihdam verileri ve petrol fiyatlarındaki gerileme ile toparlanma gösterdi. Gümüş de benzer bir eğilimdeydi. Brent petrol, jeopolitik risklerle volatil bir seyir izleyerek 70 dolar seviyelerinde tutundu.
+*   **Kripto Paralar:** Bitcoin, jeopolitik gerilimlerle 61 bin dolar seviyelerine gerileyerek son bir buçuk yılın en düşüklerini gördü ve üst üste üçüncü çeyrek düşüşünü kaydetti. Ethereum da baskı altındayken, bazı altcoinlerde katalizör etkileriyle kısmi ilgi görüldü.
+*   **Tahvil, Bono ve Faiz Piyasaları:** TCMB'nin faizleri sabit tutma beklentisi sürerken, piyasaların gözü 3 Temmuz'da açıklanan Haziran ayı enflasyon rakamlarındaydı. Küresel çapta ise Fed'in Temmuz ayında bir faiz artışı yapabileceği beklentisi, doları desteklemeye devam etti ve küresel tahvil piyasalarını etkiledi. Türkiye'de yıl sonu enflasyon beklentileri yukarı yönlü revize edildi.
 
-**Açıklamalar:**
+Genel olarak, yatırımcılar belirsizlikler ve volatilite arasında dengeleyici varlıklara yönelirken, gelecek dönemde açıklanacak makroekonomik verilerin piyasa yönünü belirlemedeki kritik rolü vurgulandı.
 
-*   **Nakil/Mevduat:** Belirsizlik dönemlerinde likiditeyi ve kısa vadeli güvenliği sağlar.
-*   **Devlet Tahvili/Bono (TL):** Yerel faiz beklentileri ve enflasyona karşı korunma amaçlı kısa-orta vadeli seçenekler değerlendirilebilir.
-*   **Küresel Tahvil (USD/EUR):** Portföyde döviz bazlı sabit getirili varlıklarla çeşitlendirme ve kur riskine karşı koruma sağlar.
-*   **Yerel Hisse Senedi (BIST):** Türkiye ekonomisinin büyüme potansiyelinden faydalanmak ve enflasyon karşısında reel getiri arayışı. Seçici ve temel analize dayalı bir yaklaşım önemlidir.
-*   **Küresel Hisse Senedi (ABD/AB):** Küresel büyüme ve teknolojik inovasyon fırsatlarından yararlanmak. Sektör ve coğrafi çeşitlendirme hedeflenmelidir.
-*   **Altın/Gümüş (Emtia):** Enflasyona karşı koruma, jeopolitik risklere karşı güvenli liman ve portföy çeşitlendirmesi amacıyla.
-*   **Petrol/Endüstriyel Emtia:** Küresel büyüme beklentileri ve arz-talep dinamiklerine göre fırsat sunabilir. Yüksek risk iştahlı yatırımcılar için.
-*   **Kripto Para:** Yüksek riskli ancak yüksek getiri potansiyeli sunan varlık sınıfı. Portföyün küçük bir kısmına ayrılmalıdır.
+### **Örnek Portföy Dağılımı**
 
----
+Aşağıda, 29.06.2026 - 03.07.2026 haftası verileri ışığında farklı risk iştahlarına sahip yatırımcı profilleri için önerilen varlık dağılımları sunulmuştur. Bu dağılımlar genel tavsiye niteliğindedir ve kişisel risk toleransı ile yatırım hedefleri doğrultusunda revize edilmelidir.
 
-**Yasal Uyarı:** Bu rapor yalnızca bilgilendirme amaçlıdır ve yatırım tavsiyesi niteliği taşımaz. Yatırım kararlarınızı almadan önce kendi araştırmanızı yapmanız, finansal danışmanınıza başvurmanız ve risk toleransınızı göz önünde bulundurmanız tavsiye edilir. Piyasa koşulları hızla değişebilir ve geçmiş performans gelecekteki sonuçların garantisi değildir.
+**1. Düşük Risk İştahına Sahip Yatırımcı**
+*   **Sabit Getirili TL Fonlar / Vadesiz Mevduat:** %45
+*   **Yurt İçi Hisse Senedi Fonları (Düşük Volatilite):** %15
+*   **Yurt Dışı Hisse Senedi Fonları (Çeşitlendirilmiş):** %10
+*   **Kıymetli Madenler Fonları (Altın Ağırlıklı):** %15
+*   **Döviz Mevduatı (Dolar/Euro):** %15
+    *   *Açıklama:* Enflasyona karşı korunma ve sermaye koruma odaklı bir yaklaşımla, düşük riskli ve likit varlıklara ağırlık verilmiştir. Döviz ve altın, TL'deki olası değer kaybına karşı dengeleyici rol oynar.
+
+**2. Orta Risk İştahına Sahip Yatırımcı**
+*   **Sabit Getirili TL Fonlar / Vadesiz Mevduat:** %25
+*   **Yurt İçi Hisse Senedi Fonları:** %25
+*   **Yurt Dışı Hisse Senedi Fonları (Teknoloji Ağırlıklı Olabilir):** %20
+*   **Kıymetli Madenler (Altın/Gümüş Fonları):** %15
+*   **Döviz Mevduatı (Dolar/Euro):** %10
+*   **Kripto Para (BTC/ETH – Sınırlı):** %5
+    *   *Açıklama:* Büyüme potansiyelini yakalamak ve riski dengelemek amacıyla hisse senedi ve döviz ağırlığı artırılmıştır. Kripto paralara küçük bir pay ayrılarak yüksek getiri potansiyelinden sınırlı faydalanma hedeflenmiştir.
+
+**3. Yüksek Risk İştahına Sahip Yatırımcı**
+*   **Yurt İçi Hisse Senedi Fonları:** %30
+*   **Yurt Dışı Hisse Senedi Fonları (Teknoloji, AI Odaklı):** %30
+*   **Kripto Para (BTC/ETH, Seçilmiş Altcoinler):** %20
+*   **Kıymetli Madenler (Gümüş Ağırlıklı):** %10
+*   **Döviz Mevduatı:** %10
+    *   *Açıklama:* Yüksek büyüme potansiyeli olan sektörlere (teknoloji, yapay zeka) ve varlıklara (kripto paralar) odaklanılarak agresif bir büyüme hedeflenmiştir. Oynaklık riski yüksek olduğundan, bu portföy dağılımı sadece yüksek risk toleransı olan yatırımcılar için uygundur.
